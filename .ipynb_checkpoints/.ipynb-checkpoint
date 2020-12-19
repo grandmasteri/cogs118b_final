@@ -75,6 +75,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
+    "#Taken inspiration from ayushmankumar7Check out this Author's contributed articles., et al. “Perspective Transformation - Python OpenCV.” GeeksforGeeks, 9 July 2020, www.geeksforgeeks.org/perspective-transformation-python-opencv/. \n",
     "def useCVOnImages(images, image_size):\n",
     "# model 2 (PCA + CV)\n",
     "    imagesT = list()\n",
